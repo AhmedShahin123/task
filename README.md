@@ -9,11 +9,11 @@
 ### Installation
 
 ```sh
-git clone https://github.com/AhmedShahin123/blogNewTask.git
+git clone https://github.com/AhmedShahin123/task.git
 ```
 
 ```sh
-cd blogNewTask
+cd task
 ```
 
 ```sh
